@@ -69,8 +69,7 @@ header {
     background-size: cover; /* Para cubrir completamente el área del encabezado */
     background-position: center; /* Para centrar la imagen de fondo */
     color: white; /* Color del texto */
-  }
-  
+  }  
   
 img {
     width: 150px; /* Tamaño de la imagen */
